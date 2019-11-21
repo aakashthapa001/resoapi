@@ -1,0 +1,1196 @@
+{
+  "sharedData": {
+    "logo": "https://res.cloudinary.com/skyryu/image/upload/v1573618417/Resolution/main-logo.svg",
+    "favicon": "",
+    "phone": "+61 2 8729 8201",
+    "navigation": [
+      {
+        "id": 1,
+        "Name": "About",
+        "URL": "/about",
+        "submenus": [
+          {
+            "id": 1,
+            "Name": "Who we are",
+            "URL": "/who-we-are"
+          },
+          {
+            "id": 2,
+            "Name": "Leadership Team",
+            "URL": "/leadership-team"
+          },
+          {
+            "id": 3,
+            "Name": "RESO Culture",
+            "URL": "/reso-culture"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "Name": "Solutions",
+        "URL": "/solutions",
+        "submenus": [
+          {
+            "id": 4,
+            "Name": "Story Connect",
+            "URL": "/storyconnect"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "Name": "Services",
+        "URL": "/services",
+        "submenus": [
+          {
+            "id": 5,
+            "Name": "CRO",
+            "URL": "/cro"
+          },
+          {
+            "id": 6,
+            "Name": "Analytics",
+            "URL": "/analytics"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "Name": "Insights",
+        "URL": "/insights",
+        "submenus": []
+      },
+      {
+        "id": 5,
+        "Name": "Careers",
+        "URL": "/careers",
+        "submenus": []
+      },
+      {
+        "id": 6,
+        "Name": "Contact",
+        "URL": "/contact",
+        "submenus": []
+      }
+    ],
+    "footerHeading": "Stay informed with our latest insights & news",
+    "officeLocations": [
+      {
+        "name": "Sydney",
+        "address": "",
+        "phone": ""
+      },
+      {
+        "name": "Melbourne",
+        "address": "",
+        "phone": ""
+      },
+      {
+        "name": "Brisbane",
+        "address": "",
+        "phone": ""
+      }
+    ],
+    "socialLinks": [
+      {
+        "title": "Facebook",
+        "icon": "https://res.cloudinary.com/skyryu/image/upload/v1573614071/Resolution/icon-facebook.svg",
+        "url": "https://www.facebook.com/ResolutionMediaAustralia/"
+      },
+      {
+        "title": "Instagram",
+        "icon": "https://res.cloudinary.com/skyryu/image/upload/v1573614454/Resolution/icon-instagram.svg",
+        "url": "https://www.instagram.com/resolution_au/"
+      },
+      {
+        "title": "Twitter",
+        "icon": "https://res.cloudinary.com/skyryu/image/upload/v1573614513/Resolution/icon-twitter.svg",
+        "url": "https://twitter.com/resolutionau"
+      },
+      {
+        "title": "Linkedin",
+        "icon": "https://res.cloudinary.com/skyryu/image/upload/v1573614601/Resolution/icon-linkedin.svg",
+        "url": "https://www.linkedin.com/company/resolution-media-australia/"
+      }
+    ]
+  },
+  "homepage": {
+    "bannerIndicatorText": "Discover Resolution",
+    "banner": {
+      "items": [
+        {
+          "type": "image",
+          "source": "https://res.cloudinary.com/skyryu/image/upload/v1573441179/Resolution/banner-homepage.jpg",
+          "altText": "Resolution Digital.",
+          "ctaText": "",
+          "ctaLink": "",
+          "ctaBgColor": "",
+          "ctaTextColor": "",
+          "title": "Resolution Digital",
+          "subtitle": "Full service digital agency",
+          "introPara": ""
+        }
+      ]
+    },
+    "tiles": [
+      {
+        "type": "six-tiles",
+        "items": [
+          {
+            "type": "primary",
+            "isFeatured": true,
+            "column": 1,
+            "primary": {
+              "position": "left",
+              "contentPosition": "left"
+            },
+            "label": "",
+            "heading": "<h2>Lorem ipsum dolor sit amet, consectetur <strong>adipiscing elit</strong></h2>",
+            "subHeading": "Morbi placerat est id massa sagittis, ultricies venenatis est feugiat. Nulla nec nisl nunc. Donec convallis, mauris vitae hendrerit tristique.",
+            "introPara": "",
+            "media": {
+              "type": "image",
+              "source": "https://res.cloudinary.com/skyryu/image/upload/v1573552208/Resolution/tile-primary-1.jpg",
+              "altText": "Image of Featured Item.",
+              "videoSrouce": ""
+            },
+            "cta": {
+              "type": "button",
+              "ctaText": "Button",
+              "link": "#",
+              "bgColor": "primary",
+              "textColor": "dark"
+            },
+            "contentBgColor": "",
+            "hoverBgColor": "",
+            "hoverContent": "",
+            "hideOnMobile": false
+          },
+          {
+            "type": "secondary",
+            "isFeatured": false,
+            "column": 1,
+            "primary": {
+              "position": "left",
+              "contentPosition": "left"
+            },
+            "label": "Label",
+            "heading": "<h3>Title of tile</h3>",
+            "subHeading": "Morbi placerat est id massa sagittis, ultricies venenatis est feugiat.",
+            "introPara": "",
+            "media": {
+              "type": "image",
+              "source": "https://res.cloudinary.com/skyryu/image/upload/v1573450625/Resolution/tile-secondary-1.jpg",
+              "altText": "Image of Secondary Item.",
+              "videoSrouce": ""
+            },
+            "cta": {
+              "type": "button",
+              "ctaText": "Button",
+              "link": "#",
+              "bgColor": "primary",
+              "textColor": "dark"
+            },
+            "contentBgColor": "",
+            "hoverBgColor": "#FF4242",
+            "hoverContent": "",
+            "hideOnMobile": false
+          },
+          {
+            "type": "secondary",
+            "isFeatured": false,
+            "column": 1,
+            "primary": {
+              "position": "left",
+              "contentPosition": "left"
+            },
+            "label": "Label",
+            "heading": "<h3>Title of tile</h3>",
+            "subHeading": "Morbi placerat est id massa sagittis, ultricies venenatis est feugiat.",
+            "introPara": "",
+            "media": {
+              "type": "image",
+              "source": "https://res.cloudinary.com/skyryu/image/upload/v1573450627/Resolution/tile-secondary-2.jpg",
+              "altText": "Image of Secondary Item.",
+              "videoSrouce": ""
+            },
+            "cta": {
+              "type": "button",
+              "ctaText": "Button",
+              "link": "#",
+              "bgColor": "primary",
+              "textColor": "dark"
+            },
+            "contentBgColor": "",
+            "hoverBgColor": "#FF4242",
+            "hoverContent": "",
+            "hideOnMobile": false
+          },
+          {
+            "type": "secondary",
+            "isFeatured": false,
+            "column": 1,
+            "primary": {
+              "position": "left",
+              "contentPosition": "left"
+            },
+            "label": "",
+            "heading": "",
+            "subHeading": "",
+            "introPara": "",
+            "media": {
+              "type": "video",
+              "source": "https://res.cloudinary.com/skyryu/image/upload/v1573450625/Resolution/tile-video-1.jpg",
+              "altText": "Image of Secondary Item.",
+              "videoSrouce": ""
+            },
+            "cta": {
+              "type": "button",
+              "ctaText": "Button",
+              "link": "#",
+              "bgColor": "primary",
+              "textColor": "dark"
+            },
+            "contentBgColor": "",
+            "hoverBgColor": "#FF4242",
+            "hoverContent": "",
+            "hideOnMobile": false
+          },
+          {
+            "type": "secondary",
+            "isFeatured": false,
+            "column": 1,
+            "primary": {
+              "position": "left",
+              "contentPosition": "left"
+            },
+            "label": "Label",
+            "heading": "<h3>Title of tile</h3>",
+            "subHeading": "Morbi placerat est id massa sagittis, ultricies venenatis est feugiat.",
+            "introPara": "",
+            "media": {
+              "type": "image",
+              "source": "https://res.cloudinary.com/skyryu/image/upload/v1573450626/Resolution/tile-secondary-3.jpg",
+              "altText": "Image of Secondary Item.",
+              "videoSrouce": ""
+            },
+            "cta": {
+              "type": "button",
+              "ctaText": "Button",
+              "link": "#",
+              "bgColor": "primary",
+              "textColor": "dark"
+            },
+            "contentBgColor": "",
+            "hoverBgColor": "#FF4242",
+            "hoverContent": "",
+            "hideOnMobile": false
+          },
+          {
+            "type": "secondary",
+            "isFeatured": false,
+            "column": 1,
+            "primary": {
+              "position": "left",
+              "contentPosition": "left"
+            },
+            "label": "Label",
+            "heading": "<h3>Title of tile</h3>",
+            "subHeading": "Morbi placerat est id massa sagittis, ultricies venenatis est feugiat.",
+            "introPara": "",
+            "media": {
+              "type": "image",
+              "source": "https://res.cloudinary.com/skyryu/image/upload/v1573450626/Resolution/tile-secondary-4.jpg",
+              "altText": "Image of Secondary Item.",
+              "videoSrouce": ""
+            },
+            "cta": {
+              "type": "button",
+              "ctaText": "Button",
+              "link": "#",
+              "bgColor": "primary",
+              "textColor": "dark"
+            },
+            "contentBgColor": "",
+            "hoverBgColor": "#FF4242",
+            "hoverContent": "",
+            "hideOnMobile": false
+          }
+        ]
+      },
+      {
+        "type": "case-study",
+        "items": [
+          {
+            "type": "case-study",
+            "isFeatured": true,
+            "column": 1,
+            "primary": {
+              "position": "left",
+              "contentPosition": "left"
+            },
+            "label": "CASE STUDY – Client",
+            "heading": "<h2 class='text-white text-3xl md:text-5xl font-light'>Lorem ipsum dolor sit amet, consectetur adipiscing elit</h2>",
+            "subHeading": "",
+            "introPara": "",
+            "media": {
+              "type": "image",
+              "source": "https://res.cloudinary.com/skyryu/image/upload/v1573450629/Resolution/tile-casestudy.jpg",
+              "altText": "Image of Featured Item.",
+              "videoSrouce": ""
+            },
+            "cta": {
+              "type": "text",
+              "ctaText": "Read more",
+              "link": "#",
+              "bgColor": "",
+              "textColor": "light"
+            },
+            "contentBgColor": "",
+            "hoverBgColor": "#00A3B4",
+            "hoverContent": "",
+            "hideOnMobile": false
+          }
+        ]
+      },
+      {
+        "type": "two-tiles",
+        "items": [
+          {
+            "type": "cta",
+            "isFeatured": false,
+            "column": 1,
+            "primary": {
+              "position": "left",
+              "contentPosition": "left"
+            },
+            "label": "",
+            "heading": "<h2 class='text-white text-4xl md:text-6xl'>Lorem ipsum</h2>",
+            "subHeading": "Morbi placerat est id massa sagittis, ultricies venenatis est feugiat. Nulla nec nisl nunc. Donec convallis, mauris vitae hendrerit",
+            "introPara": "",
+            "media": {
+              "type": "",
+              "source": "",
+              "altText": "",
+              "videoSrouce": ""
+            },
+            "cta": {
+              "type": "button",
+              "ctaText": "Let’s work together",
+              "link": "#",
+              "bgColor": "primary",
+              "textColor": "dark"
+            },
+            "contentBgColor": "",
+            "hoverBgColor": "",
+            "hoverContent": "",
+            "hideOnMobile": false
+          },
+          {
+            "type": "award",
+            "isFeatured": true,
+            "column": 1,
+            "primary": {
+              "position": "right",
+              "contentPosition": "right"
+            },
+            "label": "AWARDS",
+            "heading": "<h2 class='text-black text-4xl'><strong>Lorem ipsum</strong> <br /> <span class='font-light'>sit consectetur</span></h2>",
+            "subHeading": "Morbi placerat est id massa sagittis, ultricies venenatis est feugiat.",
+            "introPara": "",
+            "media": {
+              "type": "image",
+              "source": "https://res.cloudinary.com/skyryu/image/upload/v1573450626/Resolution/tile-awards.jpg",
+              "altText": "Image of Secondary Item.",
+              "videoSrouce": ""
+            },
+            "cta": {
+              "type": "text",
+              "ctaText": "Find out why",
+              "link": "#",
+              "bgColor": "",
+              "textColor": "dark"
+            },
+            "contentBgColor": "#F9B53B",
+            "hoverBgColor": "",
+            "hoverContent": "",
+            "hideOnMobile": false
+          }
+        ]
+      },
+      {
+        "type": "three-tiles",
+        "items": [
+          {
+            "type": "secondary",
+            "isFeatured": false,
+            "column": 1,
+            "primary": {
+              "position": "left",
+              "contentPosition": "left"
+            },
+            "label": "Label",
+            "heading": "Title of tile",
+            "subHeading": "",
+            "introPara": "",
+            "media": {
+              "type": "image",
+              "source": "https://res.cloudinary.com/skyryu/image/upload/v1573450626/Resolution/tile-secondary-5.jpg",
+              "altText": "Image of Secondary Item.",
+              "videoSrouce": ""
+            },
+            "cta": {
+              "type": "button",
+              "ctaText": "Button",
+              "link": "#",
+              "bgColor": "primary",
+              "textColor": "dark"
+            },
+            "contentBgColor": "",
+            "hoverBgColor": "#FF4242",
+            "hoverContent": "",
+            "hideOnMobile": false
+          },
+          {
+            "type": "secondary",
+            "isFeatured": false,
+            "column": 1,
+            "primary": {
+              "position": "left",
+              "contentPosition": "left"
+            },
+            "label": "Label",
+            "heading": "<h3>Title of tile</h3>",
+            "subHeading": "Morbi placerat est id massa sagittis, ultricies venenatis est feugiat.",
+            "introPara": "",
+            "media": {
+              "type": "image",
+              "source": "https://res.cloudinary.com/skyryu/image/upload/v1573450627/Resolution/tile-secondary-6.jpg",
+              "altText": "Image of Secondary Item.",
+              "videoSrouce": ""
+            },
+            "cta": {
+              "type": "button",
+              "ctaText": "Button",
+              "link": "#",
+              "bgColor": "primary",
+              "textColor": "dark"
+            },
+            "contentBgColor": "",
+            "hoverBgColor": "#FF4242",
+            "hoverContent": "",
+            "hideOnMobile": false
+          },
+          {
+            "type": "secondary",
+            "isFeatured": false,
+            "column": 1,
+            "primary": {
+              "position": "left",
+              "contentPosition": "left"
+            },
+            "label": "Label",
+            "heading": "<h3>Title of tile</h3>",
+            "subHeading": "Morbi placerat est id massa sagittis, ultricies venenatis est feugiat.",
+            "introPara": "",
+            "media": {
+              "type": "image",
+              "source": "https://res.cloudinary.com/skyryu/image/upload/v1573450626/Resolution/tile-secondary-7.jpg",
+              "altText": "Image of Secondary Item.",
+              "videoSrouce": ""
+            },
+            "cta": {
+              "type": "button",
+              "ctaText": "Button",
+              "link": "#",
+              "bgColor": "default",
+              "textColor": "dark"
+            },
+            "contentBgColor": "",
+            "hoverBgColor": "#FF4242",
+            "hoverContent": "",
+            "hideOnMobile": false
+          }
+        ]
+      }
+    ],
+    "textMedia": [
+      {
+        "mediaType": "image",
+        "mediaSource": "https://res.cloudinary.com/skyryu/image/upload/v1573450624/Resolution/feature-partners-img.png",
+        "mediaAltText": "Media Description.",
+        "mediaPosition": "right",
+        "bgColor": "#E7E8E8",
+        "textColor": "dark",
+        "cta": {
+          "type": "button",
+          "ctaText": "Find out more",
+          "link": "#",
+          "bgColor": "primary",
+          "textColor": "dark"
+        },
+        "label": "Partners",
+        "title": "Morbi placerat est id massa sagittis, ultricies venenatis est feugiat. Nulla nec nisl nunc",
+        "subTitle": "Find out how this will benefit you and your business.",
+        "subText": ""
+      }
+    ],
+    "tiles2": [
+      {
+        "type": "three-tiles",
+        "items": [
+          {
+            "type": "secondary",
+            "isFeatured": true,
+            "column": 1,
+            "primary": {
+              "position": "left",
+              "contentPosition": "left"
+            },
+            "label": "Label",
+            "heading": "Title of tile",
+            "subHeading": "Morbi placerat est id massa sagittis, ultricies venenatis est feugiat. Nulla nec nisl nunc. Donec convallis, mauris vitae hendrerit tristique.",
+            "introPara": "",
+            "media": {
+              "type": "image",
+              "source": "https://res.cloudinary.com/skyryu/image/upload/v1573450628/Resolution/tile-secondary-8.jpg",
+              "altText": "Image of Featured Item.",
+              "videoSrouce": ""
+            },
+            "cta": {
+              "type": "button",
+              "ctaText": "Button",
+              "link": "#",
+              "bgColor": "primary",
+              "textColor": "dark"
+            },
+            "contentBgColor": "",
+            "hoverBgColor": "",
+            "hoverContent": "",
+            "hideOnMobile": false
+          },
+          {
+            "type": "secondary",
+            "isFeatured": false,
+            "column": 1,
+            "primary": {
+              "position": "left",
+              "contentPosition": "left"
+            },
+            "label": "Label",
+            "heading": "<h3>Title of tile</h3>",
+            "subHeading": "Morbi placerat est id massa sagittis, ultricies venenatis est feugiat.",
+            "introPara": "",
+            "media": {
+              "type": "image",
+              "source": "https://res.cloudinary.com/skyryu/image/upload/v1573450627/Resolution/tile-secondary-9.jpg",
+              "altText": "Image of Secondary Item.",
+              "videoSrouce": ""
+            },
+            "cta": {
+              "type": "button",
+              "ctaText": "Button",
+              "link": "#",
+              "bgColor": "primary",
+              "textColor": "dark"
+            },
+            "contentBgColor": "",
+            "hoverBgColor": "",
+            "hoverContent": "",
+            "hideOnMobile": false
+          },
+          {
+            "type": "secondary",
+            "isFeatured": false,
+            "column": 1,
+            "primary": {
+              "position": "left",
+              "contentPosition": "left"
+            },
+            "label": "Label",
+            "heading": "<h3>Title of tile</h3>",
+            "subHeading": "Morbi placerat est id massa sagittis, ultricies venenatis est feugiat.",
+            "introPara": "",
+            "media": {
+              "type": "image",
+              "source": "https://res.cloudinary.com/skyryu/image/upload/v1573450625/Resolution/tile-secondary-10.jpg",
+              "altText": "Image of Secondary Item.",
+              "videoSrouce": ""
+            },
+            "cta": {
+              "type": "button",
+              "ctaText": "Button",
+              "link": "#",
+              "bgColor": "primary",
+              "textColor": "dark"
+            },
+            "contentBgColor": "",
+            "hoverBgColor": "",
+            "hoverContent": "",
+            "hideOnMobile": false
+          }
+        ]
+      }
+    ],
+    "client": {
+      "logoSource": "https://res.cloudinary.com/skyryu/image/upload/v1573457369/Resolution/logo-amazon.svg",
+      "logoAltText": "Amazon.",
+      "label": "Label",
+      "title": "Title of tile"
+    },
+    "featureServiceLinks": {
+      "title": "OUR SERVICES",
+      "items": [
+        {
+          "url": "#",
+          "urlText": "Plan",
+          "childrens": [
+            {
+              "url": "#",
+              "urlText": "Digital Strategy"
+            },
+            {
+              "url": "#",
+              "urlText": "Content Strategy"
+            },
+            {
+              "url": "#",
+              "urlText": "MarTech Strategy"
+            },
+            {
+              "url": "#",
+              "urlText": "Data & Technology Strategy"
+            },
+            {
+              "url": "#",
+              "urlText": "Digital Audits"
+            },
+            {
+              "url": "#",
+              "urlText": "Consulting & Training"
+            }
+          ]
+        },
+        {
+          "url": "#",
+          "urlText": "Create",
+          "childrens": [
+            {
+              "url": "#",
+              "urlText": "Digital Design UX/UI"
+            },
+            {
+              "url": "#",
+              "urlText": "Digital Content Production"
+            },
+            {
+              "url": "#",
+              "urlText": "Digital Illustration"
+            },
+            {
+              "url": "#",
+              "urlText": "Banner Ad Design"
+            },
+            {
+              "url": "#",
+              "urlText": "Dynamic Creative"
+            },
+            {
+              "url": "#",
+              "urlText": "Brand & Logo Design"
+            }
+          ]
+        },
+        {
+          "url": "#",
+          "urlText": "Build",
+          "childrens": [
+            {
+              "url": "#",
+              "urlText": "Website Development"
+            },
+            {
+              "url": "#",
+              "urlText": "eCommerce Development"
+            },
+            {
+              "url": "#",
+              "urlText": "Mobile APP Development"
+            },
+            {
+              "url": "#",
+              "urlText": "Integrations"
+            },
+            {
+              "url": "#",
+              "urlText": "Customer Software Development"
+            },
+            {
+              "url": "#",
+              "urlText": "AMP"
+            }
+          ]
+        },
+        {
+          "url": "#",
+          "urlText": "Connect",
+          "childrens": [
+            {
+              "url": "#",
+              "urlText": "Organic SEO"
+            },
+            {
+              "url": "#",
+              "urlText": "Intelligent Contant"
+            },
+            {
+              "url": "#",
+              "urlText": "Paid Digital Media"
+            },
+            {
+              "url": "#",
+              "urlText": "Paid Search"
+            },
+            {
+              "url": "#",
+              "urlText": "Social Media"
+            }
+          ]
+        },
+        {
+          "url": "#",
+          "urlText": "Measure",
+          "childrens": [
+            {
+              "url": "#",
+              "urlText": "Analytics"
+            },
+            {
+              "url": "#",
+              "urlText": "Business Intelligence"
+            },
+            {
+              "url": "#",
+              "urlText": "Data Science"
+            },
+            {
+              "url": "#",
+              "urlText": "Market Mix Modelling"
+            },
+            {
+              "url": "#",
+              "urlText": "Data Management Platform"
+            }
+          ]
+        },
+        {
+          "url": "#",
+          "urlText": "Optimise",
+          "childrens": [
+            {
+              "url": "#",
+              "urlText": "Conversion Rate Optimisation"
+            },
+            {
+              "url": "#",
+              "urlText": "Digital Personalisation"
+            },
+            {
+              "url": "#",
+              "urlText": "Customer Journey Optimisation"
+            },
+            {
+              "url": "#",
+              "urlText": "Mobile Optimisation"
+            },
+            {
+              "url": "#",
+              "urlText": "Marketplace Optimisation"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "about": {
+    "bannerIndicatorText": "About Resolution",
+    "banner": {
+      "items": [
+        {
+          "type": "video",
+          "source": "https://res.cloudinary.com/skyryu/image/upload/v1573441179/Resolution/banner-homepage.jpg",
+          "altText": "Resolution Digital.",
+          "ctaText": "",
+          "ctaLink": "",
+          "ctaBgColor": "",
+          "ctaTextColor": "",
+          "title": "We are your",
+          "subtitle": "Remarkable Digital Partner",
+          "introPara": "Resolution Is Your Full-Service Digital Marketing Agency. We have the advantage of a global network, and our local team of digital marketing consultants have the expertise, experience, network and support to deliver exceptional business results for our clients."
+        }
+      ]
+    },
+    "textMedia": [
+      {
+        "mediaType": "video",
+        "mediaSource": "https://res.cloudinary.com/skyryu/image/upload/v1573450625/Resolution/tile-video-1.jpg",
+        "mediaAltText": "Media Description.",
+        "mediaPosition": "right",
+        "bgColor": "",
+        "textColor": "dark",
+        "cta": {
+          "type": "button",
+          "ctaText": "Find out more",
+          "link": "#",
+          "bgColor": "primary",
+          "textColor": "dark"
+        },
+        "label": "WHY RESOLUTION",
+        "title": "We are the platform junkies, the investigative analysts, the creative collaborators",
+        "subTitle": "We have over a decade of experience in the digital marketing industry, producing remarkable results for results-driven brands, who want an easy, uncomplicated one-stop shop agency experience. ",
+        "subText": ""
+      },
+      {
+        "mediaType": "image",
+        "mediaSource": "https://res.cloudinary.com/skyryu/image/upload/v1574222223/Resolution/dummy-image.jpg",
+        "mediaAltText": "Media Description.",
+        "mediaPosition": "left",
+        "bgColor": "",
+        "textColor": "dark",
+        "cta": {
+          "type": "button",
+          "ctaText": "Learn more",
+          "link": "#",
+          "bgColor": "primary",
+          "textColor": "dark"
+        },
+        "label": "OUR LEGACY",
+        "title": "We are the platform junkies, the investigative analysts, the creative collaborators",
+        "subTitle": "We have over a decade of experience in the digital marketing industry, producing remarkable results for results-driven brands, who want an easy, uncomplicated one-stop shop agency experience. ",
+        "subText": ""
+      }
+    ],
+    "team": {
+      "intro": {
+        "label": "THE LEADERSHIP TEAM",
+        "title": "Full circle: It’s about our remarkable Resolution employees led by a remarkable team",
+        "subTitle": "Meet our Senior leadership team.",
+        "subText": ""
+      },
+      "members": [
+        {
+          "name": "Des Odell",
+          "position": "CEO",
+          "linkedin": "https://www.linkedin.com/in/desodell",
+          "image": "https://res.cloudinary.com/skyryu/image/upload/v1574267749/Resolution/member-dummy.jpg"
+        },
+        {
+          "name": "Anneliese Pienaar",
+          "position": "General Manager - Operations",
+          "linkedin": "https://www.linkedin.com/in/anneliesepienaar/",
+          "image": "https://res.cloudinary.com/skyryu/image/upload/v1574267749/Resolution/member-dummy.jpg"
+        },
+        {
+          "name": "Kate Gamble",
+          "position": "General Manager - Resolution",
+          "linkedin": "https://www.linkedin.com/in/kategamble/",
+          "image": "https://res.cloudinary.com/skyryu/image/upload/v1574267749/Resolution/member-dummy.jpg"
+        },
+        {
+          "name": "David Moore",
+          "position": "General Manager - Business Management (Melbourne & Perth)",
+          "linkedin": "https://www.linkedin.com/in/david-moore-a669a814",
+          "image": "https://res.cloudinary.com/skyryu/image/upload/v1574267749/Resolution/member-dummy.jpg"
+        },
+        {
+          "name": "Matthew Keegan",
+          "position": "General Manager - Queensland",
+          "linkedin": "https://www.linkedin.com/in/matthewkeegan1986/",
+          "image": "https://res.cloudinary.com/skyryu/image/upload/v1574267749/Resolution/member-dummy.jpg"
+        },
+        {
+          "name": "Anupam Wagle",
+          "position": "General Manager - Development and Technology",
+          "linkedin": "https://www.linkedin.com/in/anupamwagle/",
+          "image": "https://res.cloudinary.com/skyryu/image/upload/v1574267749/Resolution/member-dummy.jpg"
+        },
+        {
+          "name": "Michael Pilz",
+          "position": "Head of OMG Facilitator",
+          "linkedin": "https://www.linkedin.com/in/michael-pilz-15344a4/",
+          "image": "https://res.cloudinary.com/skyryu/image/upload/v1574267749/Resolution/member-dummy.jpg"
+        },
+        {
+          "name": "Mohammad Heidari Far",
+          "position": "General Manager - Owned and Earned",
+          "linkedin": "https://www.linkedin.com/in/mofar/",
+          "image": "https://res.cloudinary.com/skyryu/image/upload/v1574267749/Resolution/member-dummy.jpg"
+        }
+      ],
+      "cta": {
+        "type": "button",
+        "ctaText": "Meet the wider Leadership Team",
+        "link": "#",
+        "bgColor": "primary",
+        "textColor": "dark"
+      }
+    },
+    "culture": {
+      "mediaType": "image",
+      "mediaSource": "https://res.cloudinary.com/skyryu/image/upload/v1574222223/Resolution/dummy-image.jpg",
+      "mediaAltText": "Media Description.",
+      "mediaPosition": "left",
+      "bgColor": "#192033",
+      "textColor": "light",
+      "cta": {
+        "type": "button",
+        "ctaText": "Learn more",
+        "link": "#",
+        "bgColor": "primary",
+        "textColor": "dark"
+      },
+      "label": "Our Culture & Values",
+      "title": "We are the platform junkies, the investigative analysts, the creative collaborators",
+      "subTitle": "We have over a decade of experience in the digital marketing industry, producing remarkable results for results-driven brands, who want an easy, uncomplicated one-stop shop agency experience. ",
+      "subText": ""
+    },
+    "aboutStats": {
+      "mediaType": "image",
+      "mediaSource": "https://res.cloudinary.com/skyryu/image/upload/v1574260694/Resolution/about-map-stat.svg",
+      "mediaAltText": "Media Description.",
+      "mediaPosition": "right",
+      "bgColor": "#18394E",
+      "textColor": "light",
+      "cta": {
+        "type": "button",
+        "ctaText": "Find out more",
+        "link": "#",
+        "bgColor": "primary",
+        "textColor": "dark"
+      },
+      "label": "PARTNER NETWORK",
+      "title": "We are the platform junkies, the investigative analysts, the creative collaborators",
+      "subTitle": "We have over a decade of experience in the digital marketing industry, producing remarkable results for results-driven brands, who want an easy, uncomplicated one-stop shop agency experience. ",
+      "subText": "",
+      "logo": "https://res.cloudinary.com/skyryu/image/upload/v1574260819/Resolution/logo-omg.svg",
+      "logoAltText": "OMG",
+      "stats": [
+        {
+          "number": "260+",
+          "text": "<strong>Employees</strong> Locally"
+        },
+        {
+          "number": "2800+",
+          "text": "<strong>Employees</strong> Worldwide"
+        },
+        {
+          "number": "260+",
+          "text": "<strong>Markets</strong> Worldwide"
+        }
+      ]
+    },
+    "awards": {
+      "intro": {
+        "label": "OUR AWARDS",
+        "title": "A few awards we have won along the way",
+        "subTitle": "Our accolades,  awards and rigorous process for upskilling gives our customers confidence. In an era where brands are no longer guaranteed safe, you need a remarkable partner that you can trust. <a href='#'><strong>Find out more</strong></a>",
+        "subText": ""
+      },
+      "list": [
+        {
+          "image": "https://res.cloudinary.com/skyryu/image/upload/v1574222223/Resolution/dummy-image.jpg",
+          "altText": "Award Name."
+        },
+        {
+          "image": "https://res.cloudinary.com/skyryu/image/upload/v1574222223/Resolution/dummy-image.jpg",
+          "altText": "Award Name."
+        },
+        {
+          "image": "https://res.cloudinary.com/skyryu/image/upload/v1574222223/Resolution/dummy-image.jpg",
+          "altText": "Award Name."
+        },
+        {
+          "image": "https://res.cloudinary.com/skyryu/image/upload/v1574222223/Resolution/dummy-image.jpg",
+          "altText": "Award Name."
+        },
+        {
+          "image": "https://res.cloudinary.com/skyryu/image/upload/v1574222223/Resolution/dummy-image.jpg",
+          "altText": "Award Name."
+        },
+        {
+          "image": "https://res.cloudinary.com/skyryu/image/upload/v1574222223/Resolution/dummy-image.jpg",
+          "altText": "Award Name."
+        },
+        {
+          "image": "https://res.cloudinary.com/skyryu/image/upload/v1574222223/Resolution/dummy-image.jpg",
+          "altText": "Award Name."
+        },
+        {
+          "image": "https://res.cloudinary.com/skyryu/image/upload/v1574222223/Resolution/dummy-image.jpg",
+          "altText": "Award Name."
+        },
+        {
+          "image": "https://res.cloudinary.com/skyryu/image/upload/v1574222223/Resolution/dummy-image.jpg",
+          "altText": "Award Name."
+        },
+        {
+          "image": "https://res.cloudinary.com/skyryu/image/upload/v1574222223/Resolution/dummy-image.jpg",
+          "altText": "Award Name."
+        }
+      ]
+    },
+    "certifications": {
+      "intro": {
+        "label": "CERTIFICATIONS",
+        "title": "We are proud certified partners",
+        "subTitle": "We hold certifications, partnerships and exclusive relationships with the enablers of modern communication. <a href='#'><strong>See more</strong></a>",
+        "subText": ""
+      },
+      "list": [
+        {
+          "image": "https://res.cloudinary.com/skyryu/image/upload/v1574222223/Resolution/dummy-image.jpg",
+          "altText": "Award Name."
+        },
+        {
+          "image": "https://res.cloudinary.com/skyryu/image/upload/v1574222223/Resolution/dummy-image.jpg",
+          "altText": "Award Name."
+        },
+        {
+          "image": "https://res.cloudinary.com/skyryu/image/upload/v1574222223/Resolution/dummy-image.jpg",
+          "altText": "Award Name."
+        },
+        {
+          "image": "https://res.cloudinary.com/skyryu/image/upload/v1574222223/Resolution/dummy-image.jpg",
+          "altText": "Award Name."
+        },
+        {
+          "image": "https://res.cloudinary.com/skyryu/image/upload/v1574222223/Resolution/dummy-image.jpg",
+          "altText": "Award Name."
+        },
+        {
+          "image": "https://res.cloudinary.com/skyryu/image/upload/v1574222223/Resolution/dummy-image.jpg",
+          "altText": "Award Name."
+        },
+        {
+          "image": "https://res.cloudinary.com/skyryu/image/upload/v1574222223/Resolution/dummy-image.jpg",
+          "altText": "Award Name."
+        },
+        {
+          "image": "https://res.cloudinary.com/skyryu/image/upload/v1574222223/Resolution/dummy-image.jpg",
+          "altText": "Award Name."
+        },
+        {
+          "image": "https://res.cloudinary.com/skyryu/image/upload/v1574222223/Resolution/dummy-image.jpg",
+          "altText": "Award Name."
+        },
+        {
+          "image": "https://res.cloudinary.com/skyryu/image/upload/v1574222223/Resolution/dummy-image.jpg",
+          "altText": "Award Name."
+        },
+        {
+          "image": "https://res.cloudinary.com/skyryu/image/upload/v1574222223/Resolution/dummy-image.jpg",
+          "altText": "Award Name."
+        },
+        {
+          "image": "https://res.cloudinary.com/skyryu/image/upload/v1574222223/Resolution/dummy-image.jpg",
+          "altText": "Award Name."
+        },
+        {
+          "image": "https://res.cloudinary.com/skyryu/image/upload/v1574222223/Resolution/dummy-image.jpg",
+          "altText": "Award Name."
+        },
+        {
+          "image": "https://res.cloudinary.com/skyryu/image/upload/v1574222223/Resolution/dummy-image.jpg",
+          "altText": "Award Name."
+        },
+        {
+          "image": "https://res.cloudinary.com/skyryu/image/upload/v1574222223/Resolution/dummy-image.jpg",
+          "altText": "Award Name."
+        }
+      ]
+    },
+    "clients": {
+      "intro": {
+        "label": "OUR CLIENTS",
+        "title": "A few awards we have won along the way",
+        "subTitle": "Our accolades,  awards and rigorous process for upskilling gives our customers confidence. In an era where brands are no longer guaranteed safe, you need a remarkable partner that you can trust. <a href='#'><strong>Find out more</strong></a>",
+        "subText": ""
+      },
+      "list": [
+        {
+          "image": "https://res.cloudinary.com/skyryu/image/upload/v1574222223/Resolution/dummy-image.jpg",
+          "altText": "Award Name."
+        },
+        {
+          "image": "https://res.cloudinary.com/skyryu/image/upload/v1574222223/Resolution/dummy-image.jpg",
+          "altText": "Award Name."
+        },
+        {
+          "image": "https://res.cloudinary.com/skyryu/image/upload/v1574222223/Resolution/dummy-image.jpg",
+          "altText": "Award Name."
+        },
+        {
+          "image": "https://res.cloudinary.com/skyryu/image/upload/v1574222223/Resolution/dummy-image.jpg",
+          "altText": "Award Name."
+        },
+        {
+          "image": "https://res.cloudinary.com/skyryu/image/upload/v1574222223/Resolution/dummy-image.jpg",
+          "altText": "Award Name."
+        },
+        {
+          "image": "https://res.cloudinary.com/skyryu/image/upload/v1574222223/Resolution/dummy-image.jpg",
+          "altText": "Award Name."
+        },
+        {
+          "image": "https://res.cloudinary.com/skyryu/image/upload/v1574222223/Resolution/dummy-image.jpg",
+          "altText": "Award Name."
+        },
+        {
+          "image": "https://res.cloudinary.com/skyryu/image/upload/v1574222223/Resolution/dummy-image.jpg",
+          "altText": "Award Name."
+        },
+        {
+          "image": "https://res.cloudinary.com/skyryu/image/upload/v1574222223/Resolution/dummy-image.jpg",
+          "altText": "Award Name."
+        },
+        {
+          "image": "https://res.cloudinary.com/skyryu/image/upload/v1574222223/Resolution/dummy-image.jpg",
+          "altText": "Award Name."
+        }
+      ]
+    },
+    "tiles": [
+      {
+        "type": "case-study",
+        "isFeatured": true,
+        "column": 1,
+        "primary": {
+          "position": "left",
+          "contentPosition": "left"
+        },
+        "label": "CASE STUDY – HBF",
+        "heading": "<h2 class='text-white text-3xl md:text-5xl font-light'>A personalised solution for WA’s health provider</h2>",
+        "subHeading": "",
+        "introPara": "",
+        "media": {
+          "type": "image",
+          "source": "https://res.cloudinary.com/skyryu/image/upload/v1573450629/Resolution/tile-casestudy.jpg",
+          "altText": "Image of Featured Item.",
+          "videoSrouce": ""
+        },
+        "cta": {
+          "type": "text",
+          "ctaText": "Read the full case study",
+          "link": "#",
+          "bgColor": "",
+          "textColor": "dark"
+        },
+        "contentBgColor": "",
+        "hoverBgColor": "#00A3B4",
+        "hoverContent": "",
+        "hideOnMobile": false
+      }
+    ]
+  }
+}
